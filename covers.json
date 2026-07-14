@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "covers": [
+    {
+      "id": "pacific-family-2026",
+      "image_url": "https://wanderjournal.easynet.world/assets/covers/pacific-family.jpg",
+      "alt": "A family walking together beside the Pacific coast at sunset",
+      "active": true
+    },
+    {
+      "id": "lantern-street-2026",
+      "image_url": "https://wanderjournal.easynet.world/assets/covers/lantern-street.jpg",
+      "alt": "Friends sharing a joyful evening on a lantern-lit historic street",
+      "active": true
+    },
+    {
+      "id": "football-summer-2026",
+      "image_url": "https://wanderjournal.easynet.world/assets/covers/football-summer.jpg",
+      "alt": "International travelers celebrating a summer football festival",
+      "active": true
+    }
+  ]
+}
